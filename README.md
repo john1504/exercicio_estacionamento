@@ -1,5 +1,4 @@
 # exercicio_estacionamento
-atividade estacionamento
 ## algoritmo   
 Início
 ENQUANTO...Há vagas?
