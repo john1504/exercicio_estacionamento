@@ -1,6 +1,6 @@
 # 
 ## ALGORITMO
-Início
+### Início
 ENQUANTO...Há vagas?
 Ver se a pessoa é idosa
 Ver se a pessoa tem deficiencia
