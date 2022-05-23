@@ -1,6 +1,7 @@
 # 
-## ALGORITMO
-### Início
+## Ver se a pessoa possui deficiencia para estacionar na vaga especial
+### Algoritmo 
+#### Início
 ENQUANTO...Há vagas?
 Ver se a pessoa é idosa
 Ver se a pessoa tem deficiencia
